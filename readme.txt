@@ -88,7 +88,9 @@ Syntax: netstat -tuln or ss -tuln
  Description: List network sockets and listening ports
  When/Why: Debug network services and port conflicts
 Step 3 — Shell scripts
- • Script A — Backup a Directory ( backup.sh )
+ • Script A — Backup a Directory (backup.sh)
  Explanation & usage: - The script accepts two arguments — the source path and a backup root directory. - It creates a timestamped backup directory and uses cp -a to preserve permissions and symbolic links. 
-• Script B — CPU/Memory Monitoring (cpu-mem.sh ) 
+• Script B — CPU/Memory Monitoring (cpu-mem.sh) 
 • Script C — Automated Download Task ( auto_download.sh)
+
+
