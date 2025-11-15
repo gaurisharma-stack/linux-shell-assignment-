@@ -1,6 +1,6 @@
 #!/bin/bash
 # Purpose: Download a file from the internet and save it to a predefined directory
-# Author: Baba tillu
+# Author: Gauri
 # Date: 12-Nov-2025
 
 URL="$1"
